@@ -11,4 +11,5 @@ or create content on the [wiki](https://github.com/sr320/workshop-safs-comm/wiki
 **Files**
 - `slidedeck-031815`- PDF of slides presented at Seeb Lab Meeting - March 18, 2015 
 -  `open-science-resources.md` - working list of open science resources including links to web services. Edits and pull requests welcome!
+-  `code-products.md` - examples of reproducible code products 
 
